@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UVPA_New_Course_Registration.ahome">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAIAAAAAAEAAAAAEAAAA=</HashCode>
+      <FileName>ahome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.amodules" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7yAAAAAAAKAGJBQAAADAgBImkIHABACAIAAACAAACAA=</HashCode>
+      <FileName>amodules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.aregistrations" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAQCAACIUABQAAQSIAAACIAARmAAAABAAAAAAAQY=</HashCode>
+      <FileName>aregistrations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.areports" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACEAABAAAACAAAADAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>areports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.asettings" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABAAAACAAEgCIAAABAAAADBAAAAAEAA=</HashCode>
+      <FileName>asettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.DBConnect" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABABAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBConnect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Form1">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAGCSACIAAAADASAACEAQAAIAgAASAAEAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Form2" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACIAAACQAAQAgATCgABEDAESEgDwkICCAAGSAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Form3" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAQgAAQACAgAAAgASSgIBADIESkACgEIGCAAEAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Program" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.uhome" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAIAAAAAAAAAAAAAEAAg=</HashCode>
+      <FileName>uhome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.uprereg" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACCEA4AAAAAAAAAAAAAAA=</HashCode>
+      <FileName>uprereg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.uregistration" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>2AAAFEAAASARAJAAIYDIBCASCAgAAkAAADgAEQAABQI=</HashCode>
+      <FileName>uregistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.usettings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAABAAAACAAEgCIAAAAAAAADBAAAAAEAA=</HashCode>
+      <FileName>usettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.ustuinfo" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/44ECMGQoG4AYBABEACI4jACGERCAkBAACBAoCQOgDI=</HashCode>
+      <FileName>ustuinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UVPA_New_Course_Registration.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
